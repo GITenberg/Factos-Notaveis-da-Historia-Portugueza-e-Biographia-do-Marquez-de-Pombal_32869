@@ -1,0 +1,28 @@
+_repo: Factos-Notaveis-da-Historia-Portugueza-e-Biographia-do-Marquez-de-Pombal_32869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinto Carneiro Perestrello, Josephina
+    aliases:
+    - Perestrelo, Josefina Pinto Carneiro
+    - Perestrello, Josephina Pinto Carneiro
+    gutenberg_agent_id: '36084'
+    url: http://www.gutenberg.org/2009/agents/36084
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32869'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pombal, Sebastião José de Carvalho e Melo, Marquês de, 1699-1782'
+- !lcc 'DP'
+title: Factos Notaveis da Historia Portugueza e Biographia do Marquez de Pombal
+url: http://www.gutenberg.org/ebooks/32869
